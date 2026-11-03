@@ -170,6 +170,12 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
+# Contributor
+
+Singapore Polytechnic – Diploma in Information Technology Student
+
+Cheston Lee
+
 # Author
 
 Singapore Polytechnic – Diploma in Information Technology Student
@@ -178,4 +184,4 @@ Specialisation: Cloud Computing & Cybersecurity
 
 Minor in Data & AI
 
-Yip Jun Yi
+Yip Jun Yi 
